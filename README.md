@@ -97,6 +97,5 @@ Beyond the code, I'm an avid advocate for productivity and efficiency, always se
 - **Email:** jjddeguzman@gmail.com
 - **LinkedIn:** https://www.linkedin.com/in/jrcdgzmn/
 - **Portfolio:** https://jjddeguzman.github.io/
-- **Resume** [jjddeguzman.notion.site/resume](https://jjddeguzman.notion.site/resume-95bae7890cd94e71b07b4cb137bc8bf9)
 
 Feel free to reach out to discuss collaborations, opportunities, or just to connect! 🚀

@@ -41,7 +41,7 @@ Beyond the code, I'm an avid advocate for productivity and efficiency, always se
 * **Testing:** Angular Jasmine
 * **Version Control:** Git
 * **UI/UX Tools:** Figma
-* * **Note Taking/ Productivity Systems:** Notion, Obsidian
+* **Note Taking/ Productivity Systems:** Notion, Obsidian
 * **Other:** State Management, Responsive Web Design
 
 <p align="left">

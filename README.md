@@ -10,7 +10,7 @@ Beyond the code, I'm an avid advocate for productivity and efficiency, always se
 
 ## Experience
 
-* ### **Advanced App Engineering Senior Analyst** | *Accenture* | December 2023 – Present (1 year 6 months)
+* ### **Advanced App Engineering Senior Analyst** | *Accenture* | December 2023 – Present
     - Led the front-end development and deployment of multiple key features for a strategic "Diamond Client" project, utilizing HTML, CSS, TypeScript, and Angular, resulting in a significant enhancement of the application's functionality.
     - Collaborated closely with designers, leveraging Figma specifications to translate UI/UX designs into pixel-perfect and user-friendly Angular components.
     - Implemented and maintained comprehensive unit tests using Angular Jasmine to ensure the reliability and quality of Angular components and services within the "Diamond Client" project.

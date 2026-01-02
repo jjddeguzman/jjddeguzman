@@ -23,12 +23,6 @@
       width="40"
       height="40"
     />
-        <img
-      src="https://logos-download.com/wp-content/uploads/2016/09/React_logo_logotype_emblem.png"
-      alt="react"
-      width="40"
-      height="40"
-    /> 
     <img
       src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
       alt="git"

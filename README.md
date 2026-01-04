@@ -1,6 +1,6 @@
 # Jerico James D. De Guzman
 
-👋 Hi there! You can call me Jerico. I'm a software engineer working at Accenture, a leading technology company renowned for its innovative and cutting-edge solutions. In my role as a software engineer, I play a critical part in developing the company's products and services, collaborating closely with a talented team of developers, designers, and project managers.
+👋 Hi there! You can call me Jerico. I'm a software engineer at Accenture, where I collaborate with talented teams to build innovative products. Outside of coding, I am deeply passionate about productivity and am actively working toward a minimalist lifestyle. I’m also an avid note-taker—you’ll usually find me organizing my thoughts and projects inside Obsidian.
 
 
 ## Technical Skills

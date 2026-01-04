@@ -6,7 +6,7 @@
 ## Technical Skills
 
 * **Languages:** HTML, CSS, JavaScript, TypeScript
-* **Frameworks/Libraries:** Angular, React, NgRx, Tailwind CSS, Bootstrap
+* **Frameworks/Libraries:** Angular, NgRx, Tailwind CSS, Bootstrap
 * **Testing:** Angular Jasmine
 * **Version Control:** Git
 * **UI/UX Tools:** Figma

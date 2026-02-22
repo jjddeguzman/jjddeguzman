@@ -59,6 +59,6 @@
 
 - **Email:** jjddeguzman@gmail.com
 - **LinkedIn:** https://www.linkedin.com/in/jrcdgzmn/
-- **Resume:** https://jjddeguzman.github.io/
+- **Portfolio:** https://jjddeguzman.github.io/
 
 Feel free to reach out to discuss collaborations, opportunities, or just to connect! 🚀
